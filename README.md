@@ -1,2 +1,3 @@
-Am here again for my first html and css professional project..
-Leggo!!!
+Am here again for my first html and css professional project that's about how to setup Portfolio Page...
+Leggo!
+Happy Coding!!!
